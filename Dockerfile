@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM python:3.6-alpine
 
 MAINTAINER Tonye Jack <jtonye@ymail.com>
 
